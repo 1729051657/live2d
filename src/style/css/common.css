@@ -1,0 +1,4 @@
+body.night{background-color: #263238;color: #aaa;}
+body.night img {filter: brightness(30%);}
+.iconfont {color:black;font-size:25px;}
+.iconfont:hover{color:#31c8E3;-webkit-animation: neon2 1.5s ease-in-out infinite alternate;-moz-animation: neon2 1.5s ease-in-out infinite alternate;animation: neon2 1.5s ease-in-out infinite alternate;}
